@@ -1,4 +1,4 @@
-module LCD_272x480 (
+module LCD_480x272 (
   input			    KEY0,
   input         MAX10_CLK1_50,
 
